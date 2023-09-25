@@ -1,6 +1,8 @@
 <h3 align="left">I make products for the web 🏗️</h3>
 
-- 🎾 Currently working on [Ralley](https://ralley.app)
+- 🎾 Building tennis & pickleball communities on [Ralley](https://ralley.app), a SaaS platform
+
+- 🔞 Modernizing content filtering with [content-checker](https://github.com/utilityfueled/content-checker), an [npm package](https://www.npmjs.com/package/content-checker)
 
 - 📝 Writing articles on [Hashnode](https://jahabeebs.hashnode.dev/)
 
