@@ -2,7 +2,7 @@
 
 ### Currently:
 
-- 🔞 Modernizing content filtering with [content-checker](https://github.com/utilityfueled/content-checker), a hosted API and [npm package](https://www.npmjs.com/package/content-checker)
+- 🔞 Modernizing content filtering with [content-checker](https://github.com/utilityfueled/content-checker), an API with hosted AI models and an [npm package](https://www.npmjs.com/package/content-checker)
 - 🤖 Contributing to the open source AI agent framework [Eidolon AI](https://www.eidolonai.com/)
 
 ### Other products I've worked on:
