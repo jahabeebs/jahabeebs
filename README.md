@@ -35,17 +35,3 @@
 - Web application for monitoring commodity prices (won a Cloudflare hackathon): </br>
   [Back-end Repo](https://github.com/jahabeebs/alphavantageworker)  
   [Front-end Repo](https://github.com/jahabeebs/cmarketprice)
-
-### Connect with me:
-
-<p align="left">
-  <a href="https://twitter.com/jahabeebs" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahabeebs" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/jacob-habib" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jacob-habib" height="30" width="40" />
-  </a>
-  <a href="https://hashnode.com/@jahabeebs" target="_blank">
-    <img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="@jahabeebs" height="30" width="30" />
-  </a>
-</p>
