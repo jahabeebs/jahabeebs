@@ -12,6 +12,8 @@
 
 - Secret Internal AI Tooling 👀 - a private TypeScript npm package designed to share AI skills and best practices among an engineering organization
 
+- [Viva La Tax](https://github.com/utilityfueled/tax-engine) - an open-source US federal and state tax engine with spec-driven unit tests for every IRS scenario
+
 - 🔞 Modernizing content filtering with [content-checker](https://github.com/utilityfueled/content-checker), an API with hosted AI models and an [npm package](https://www.npmjs.com/package/content-checker)
 
 - 🤖 Contributing to the open source AI agent framework [Eidolon AI](https://www.eidolonai.com/)
