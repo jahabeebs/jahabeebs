@@ -2,7 +2,7 @@
 
 ### Currently:
 
-- 📜 Building [ReleaseNotary](https://releasenotary.com), a release-assurance layer that runs critical product flows on each PR or release build and creates durable proof packets reviewers can inspect before merge
+- 📜 Building [ReleaseNotary](https://releasenotary.com/), an AI-powered release-assurance layer that runs critical product flows on each PR or release build and creates durable proof packets reviewers can inspect before merge
 
 ### Other products I've worked on:
 
