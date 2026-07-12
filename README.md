@@ -6,35 +6,17 @@
 
 ### Other products I've worked on:
 
-- [ILLA](https://illa.io) - financial infrastructure for AI agents
-
-- [EBO Agent](https://github.com/graphprotocol/EBO-agent) - an open-source tool designed to poll billions of events from on-chain smart contracts, make proposals, and engage and resolve disputes
-
-- Secret Internal AI Tooling 👀 - a private TypeScript npm package designed to share AI skills and best practices among an engineering organization
-
-- [Viva La Tax](https://github.com/utilityfueled/tax-engine) - an open-source US federal and state tax engine with spec-driven unit tests for every IRS scenario
-
-- 🔞 Modernizing content filtering with [content-checker](https://github.com/utilityfueled/content-checker), an API with hosted AI models and an [npm package](https://www.npmjs.com/package/content-checker)
-
-- 🤖 Contributing to the open source AI agent framework [Eidolon AI](https://www.eidolonai.com/)
-
-- First engineering hire of a DeFi protocol, scaled to 1 million USD in TVL<br>
-  Website: [Open Dollar Website](https://www.opendollar.com/)<br>
-  GitHub: [Open Dollar Repo](https://github.com/open-dollar)
-
-- Multi-party computation (MPC) wallet<br>
-  Website: [Keyp Website](https://www.usekeyp.com/)<br>
-  GitHub: [Keyp Repo](https://github.com/UseKeyp)
-
-- NFT marketplace partnered with Chess.com<br>
-  Press release: [Treasure Chess Announcement](https://www.chess.com/news/view/treasure-chess)<br>
-  GitHub: [Treasure Chess Repo](https://github.com/treasure-chess)
-
-- Landing pages for DAOs<br>
-  Hero DAO: [Hero DAO Repo](https://github.com/jahabeebs/herodao)<br>
-  Developer DAO Agency: [Developer DAO Repo](https://github.com/jahabeebs/d_agency)
-
-- EPRN, pharmacy software used in over 2000+ U.S. pharmacies
+- [ILLA](https://illa.io) — Worked on financial infrastructure for AI agents.
+- [EBO Agent](https://github.com/graphprotocol/EBO-agent) — Helped build an open-source tool that polls billions of on-chain smart contract events, makes proposals, and participates in dispute resolution.
+- Secret Internal AI Tooling 👀 — Built a private TypeScript npm package for sharing AI skills and best practices across an engineering organization.
+- [Viva La Tax](https://github.com/utilityfueled/tax-engine) — Built an open-source U.S. federal and state tax engine with spec-driven unit tests for every IRS scenario.
+- [content-checker](https://github.com/utilityfueled/content-checker) — Built a content-filtering API powered by hosted AI models with a companion [npm package](https://www.npmjs.com/package/content-checker).
+- [Eidolon AI](https://www.eidolonai.com/) — Contributed to an open-source AI agent framework.
+- [Open Dollar](https://www.opendollar.com/) ([GitHub](https://github.com/open-dollar)) — Joined as the first engineering hire and helped scale the DeFi protocol to $1 million in TVL.
+- [Keyp](https://www.usekeyp.com/) ([GitHub](https://github.com/UseKeyp)) — Worked on a multi-party computation (MPC) wallet.
+- [Treasure Chess](https://www.chess.com/news/view/treasure-chess) ([GitHub](https://github.com/treasure-chess)) — Worked on an NFT marketplace partnered with Chess.com.
+- DAO landing pages — Built sites for [Hero DAO](https://github.com/jahabeebs/herodao) and [Developer DAO Agency](https://github.com/jahabeebs/d_agency).
+- EPRN — Worked on pharmacy software used in more than 2,000 U.S. pharmacies.
 
 ### Random/fun projects
 
