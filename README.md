@@ -20,7 +20,7 @@
 
 ### Random/fun projects
 
-- [Buy it Bot](https://regalito-bot.vercel.app) (previously Regalito) — A chat-driven Base Mini App for shopping and ENS-verified gifting. Won [#1 in the AI track at the Aleph Hackathon](https://dorahacks.io/buidl/32161/milestones). [Source](https://github.com/jahabeebs/regalito-bot)
+- Buy it Bot (previously Regalito) — A chat-driven Base Mini App for shopping and ENS-verified gifting. Won [#1 in the AI track at the Aleph Hackathon](https://dorahacks.io/buidl/32161/milestones). [Source](https://github.com/jahabeebs/regalito-bot)
 - Platform for finding tennis/pickleball partners called Ralley: [Ralley Website](https://ralley.app)
 - Chrome extension that replaces X.com branding with custom assets: [Fix Twitter Repo](https://github.com/jahabeebs/fixx-twitter)
 - Invoice generator: [Invoice Generator Repo](https://github.com/jahabeebs/invoice-generator)
